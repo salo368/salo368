@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently studding the systems engineering career</p>
+<p align="left">📚 I'm currently studying the systems engineering career</p>
 
 ###
 
