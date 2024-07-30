@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently studying the systems engineering career</p>
+<p align="left">📚 I'm currently studying the systems engineering career, passionate about programming and web development. My main strength is Python, and I also have experience with HTML, CSS, and JavaScript.</p>
 
 ###
 
